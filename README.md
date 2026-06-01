@@ -2,7 +2,7 @@
 
 ## Java developer | Fullstack developer
 
-Full-stack developer with 3+ years of commercial experience in software development. Developed full-stack web applications using JavaScript/TypeScript (React, Next.js, Nest.js), including backend architecture and third-party API integrations. Currently specializing in Java backend development with Java and Spring Boot.
+Full-stack developer with 3+ years of commercial experience in software development. Developed full-stack web applications using JavaScript/TypeScript (React, Next.js, Nest.js), including backend architecture and third-party API integrations. Currently specializing in backend development with Java and Spring Boot.
 
 Preferred contact method: kirillwork56@gmail.com
 
