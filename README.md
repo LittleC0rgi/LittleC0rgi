@@ -1,6 +1,6 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kirill Vasilev
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kirill Vasilev
 
-## Java developer | Fullstack developer
+### Java developer | Fullstack developer
 
 Full-stack developer with 3+ years of commercial experience in software development. Developed full-stack web applications using JavaScript/TypeScript (React, Next.js, Nest.js), including backend architecture and third-party API integrations. Currently specializing in backend development with Java and Spring Boot.
 
@@ -10,7 +10,7 @@ Preferred contact method: kirillwork56@gmail.com
 - ✉️ You can contact me at [kirillwork56@gmail.com](mailto:kirillwork56@gmail.com)
 - 🧠 I'm currently learning Java and Spring Boot
 
-## Stack
+### Stack
 
  <p align="left">
       <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
