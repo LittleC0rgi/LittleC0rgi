@@ -4,10 +4,8 @@
 
 Full-stack developer with 3+ years of commercial experience in software development. Developed full-stack web applications using JavaScript/TypeScript (React, Next.js, Nest.js), including backend architecture and third-party API integrations. Currently specializing in backend development with Java and Spring Boot.
 
-Preferred contact method: kirillwork56@gmail.com
-
 - 🌍 I'm based in Saint Petersburg
-- ✉️ You can contact me at [kirillwork56@gmail.com](mailto:kirillwork56@gmail.com)
+- ✉️ You can contact me at [kirillwork56@gmail.com](mailto:kirillwork56@gmail.com) (Preferred contact method)
 - 🧠 I'm currently learning Java and Spring Boot
 
 ### Stack
