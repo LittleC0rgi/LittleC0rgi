@@ -110,3 +110,5 @@ Preferred contact method: kirillwork56@gmail.com
         />
       </a>
     </p>
+
+<img alt="Light Badge (small)" class="block dark:hidden" src="https://www.codewars.com/users/Little_c0rgi/badges/small?theme=light">
