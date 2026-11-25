@@ -1,11 +1,11 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kirill Vasilev
+### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Kirill Volkov
 
 ### Java developer | Fullstack developer
 
-Full-stack developer with 3+ years of commercial experience in software development. Developed full-stack web applications using JavaScript/TypeScript (React, Next.js, Nest.js), including backend architecture and third-party API integrations. Currently specializing in backend development with Java and Spring Boot.
+Full-stack developer with 3+ years of commercial experience in software development. Developed full-stack web applications using JavaScript/TypeScript (React, Next.js, Node.js, Nest.js), including backend architecture and third-party API integrations. Currently specializing in backend development with Java and Spring Boot.
 
 - 🌍 I'm based in Saint Petersburg
-- ✉️ You can contact me at [kirillwork56@gmail.com](mailto:kirillwork56@gmail.com) (Preferred contact method)
+- ✉️ You can contact me at [Kirill.Volkov99@protonmail.com](mailto:Kirill.Volkov99@protonmail.com) (Preferred contact method)
 - 🧠 I'm currently learning Java and Spring Boot
 
 ### Stack
@@ -62,7 +62,8 @@ Full-stack developer with 3+ years of commercial experience in software developm
           title="React"
           width="36"
           height="36"
-      /></a>
+      />
+      </a>
       <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
         <img
           src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg"
